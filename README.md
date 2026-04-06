@@ -1,4 +1,7 @@
-[Ma Photo](Photo.png)
+<div align="center">
+  <img src="Photo.png" alt="Ma Photo" width="200">
+  <h1>Bienvenue sur mon profil !</h1>
+</div>
 # 👋 Bonjour, je suis Marc-Evenort SAINT-JEAN
 
 ## 📝 Présentation
